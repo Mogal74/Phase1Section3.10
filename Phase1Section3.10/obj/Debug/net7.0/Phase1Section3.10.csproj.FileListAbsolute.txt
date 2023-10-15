@@ -1,0 +1,14 @@
+M:\Assisted projects\Phase1Section3.10\Phase1Section3.10\bin\Debug\net7.0\Phase1Section3.10.exe
+M:\Assisted projects\Phase1Section3.10\Phase1Section3.10\bin\Debug\net7.0\Phase1Section3.10.deps.json
+M:\Assisted projects\Phase1Section3.10\Phase1Section3.10\bin\Debug\net7.0\Phase1Section3.10.runtimeconfig.json
+M:\Assisted projects\Phase1Section3.10\Phase1Section3.10\bin\Debug\net7.0\Phase1Section3.10.dll
+M:\Assisted projects\Phase1Section3.10\Phase1Section3.10\bin\Debug\net7.0\Phase1Section3.10.pdb
+M:\Assisted projects\Phase1Section3.10\Phase1Section3.10\obj\Debug\net7.0\Phase1Section3.10.GeneratedMSBuildEditorConfig.editorconfig
+M:\Assisted projects\Phase1Section3.10\Phase1Section3.10\obj\Debug\net7.0\Phase1Section3.10.AssemblyInfoInputs.cache
+M:\Assisted projects\Phase1Section3.10\Phase1Section3.10\obj\Debug\net7.0\Phase1Section3.10.AssemblyInfo.cs
+M:\Assisted projects\Phase1Section3.10\Phase1Section3.10\obj\Debug\net7.0\Phase1Section3.10.csproj.CoreCompileInputs.cache
+M:\Assisted projects\Phase1Section3.10\Phase1Section3.10\obj\Debug\net7.0\Phase1Section3.10.dll
+M:\Assisted projects\Phase1Section3.10\Phase1Section3.10\obj\Debug\net7.0\refint\Phase1Section3.10.dll
+M:\Assisted projects\Phase1Section3.10\Phase1Section3.10\obj\Debug\net7.0\Phase1Section3.10.pdb
+M:\Assisted projects\Phase1Section3.10\Phase1Section3.10\obj\Debug\net7.0\Phase1Section3.10.genruntimeconfig.cache
+M:\Assisted projects\Phase1Section3.10\Phase1Section3.10\obj\Debug\net7.0\ref\Phase1Section3.10.dll
